@@ -18,6 +18,11 @@ bun dev
 
 Open http://localhost:7777
 
+To run tests:
+```sh
+bun test
+```
+
 To format and lint (using biome):
 ```sh
 bun format
